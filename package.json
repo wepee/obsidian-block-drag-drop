@@ -1,0 +1,21 @@
+{
+  "name": "block-drag-drop",
+  "version": "1.0.0",
+  "description": "Notion-style drag and drop reordering for any content block in Obsidian",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production"
+  },
+  "keywords": [],
+  "author": "Avicenne Studio",
+  "license": "MIT",
+  "devDependencies": {
+    "@codemirror/language": "^6.0.0",
+    "@codemirror/state": "^6.0.0",
+    "@codemirror/view": "^6.0.0",
+    "esbuild": "^0.20.0",
+    "obsidian": "^1.5.0",
+    "typescript": "^5.4.0"
+  }
+}
