@@ -1,0 +1,9 @@
+{
+  "id": "block-drag-drop",
+  "name": "Block Drag & Drop",
+  "version": "1.0.0",
+  "minAppVersion": "1.12.0",
+  "description": "Drag and drop content blocks to reorder paragraphs, headings, lists, and other Markdown elements in Live Preview.",
+  "author": "wepee",
+  "isDesktopOnly": true
+}
